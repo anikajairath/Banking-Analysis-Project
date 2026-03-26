@@ -1,3 +1,5 @@
+⭐ Key Project for Data Analyst Portfolio
+
 # Banking Transactions & Customer Financial Analysis
 
 # Overview
