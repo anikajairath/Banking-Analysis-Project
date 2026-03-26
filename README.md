@@ -43,5 +43,3 @@ This analysis helps banks identify high-value customers, improve targeting strat
 # Dashboard
 
 Power BI dashboard showcasing transaction trends, customer segmentation, loan status distribution, and branch-wise performance.
-
-Power BI dashboard showcasing transaction trends, customer segmentation, loan status distribution, and branch-wise performance.
